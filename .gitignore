@@ -1,2 +1,7 @@
 node_modules
 test.md
+.hintrc
+.stylelintrc.json
+package-lock.json
+package.json
+
